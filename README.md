@@ -1,6 +1,6 @@
 # DataWedge Flutter Integration
 
-This project demonstrates the integration of Zebra DataWedge with a Flutter app for barcode scanning. It uses MethodChannels and EventChannels to communicate between Flutter and the native Android environment for controlling the barcode scanner and receiving scan results.
+This project demonstrates the integration of Zebra DataWedge with a Flutter app for barcode scanning. It uses MethodChannels and EventChannels to communicate between Flutter and the native Android environment for controlling the barcode scanner and receiving scan results. Read complete article [here](https://medium.com/@abdullahkhan.smiu/integrating-datawedge-with-flutter-for-barcode-scanning-85797f52baee)
 
 ## Features
 
